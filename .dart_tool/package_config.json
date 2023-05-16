@@ -485,10 +485,10 @@
       "name": "dotfiles",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-05-16T07:22:28.212131Z",
+  "generated": "2023-05-16T07:25:12.090626Z",
   "generator": "pub",
   "generatorVersion": "3.0.0"
 }
