@@ -1,3 +1,6 @@
+# 1.0.1
+- fixed escaping in the readme
+
 # 1.0.0
 - update for dart 3.x support
 

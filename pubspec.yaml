@@ -1,5 +1,5 @@
 name: dotfiles
-version: 1.0.0
+version: 1.0.1
 description: Provides a simple mechanism for tracking all of your linux configuration files like ~/.bashrc with git.
 environment: 
   sdk: '>=2.19.0 <3.0.0'
