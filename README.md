@@ -19,18 +19,18 @@ dotfiles init
 
 # add files to your dot file repo
 
-dotfiles add <path to file>
+`dotfiles add <path to file>`
 
 # commit files added or changed files
-dotfiles commit
+`dotfiles commit`
 
 # list of tracked dotfiles
 
-dotfile list
+`dotfile list`
 
 # run any git command against your dotfile repo
 
-dotfile <any git command>
+`dotfile <any git command>`
 
 # push dotfiles to remote repo
 
