@@ -1,5 +1,5 @@
 name: dotfiles
-version: 1.0.3
+version: 1.0.4
 publish_to: https://beta.onepub.dev/api/jbbxpsdavu/
 description: Provides a simple mechanism for tracking all of your linux configuration files like ~/.bashrc with git.
 environment:
