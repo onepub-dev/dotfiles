@@ -1,1 +1,3 @@
 .failed_tracker
+.history/**
+.dart_tool/**
